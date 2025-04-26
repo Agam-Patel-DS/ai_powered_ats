@@ -1,0 +1,15 @@
+streamlit
+pandas
+openpyxl
+nltk
+spacy
+pdfplumber
+python-docx
+scikit-learn
+sentence-transformers
+transformers
+torch
+groq
+python-dotenv
+numpy
+
